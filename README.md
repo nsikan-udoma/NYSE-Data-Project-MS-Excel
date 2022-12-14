@@ -1,4 +1,4 @@
-![NYSE Data Analysis](https://github.com/nsikan-udoma/NYSE-Data-Project/blob/main/Image%203.png)
+![NYSE Data Analysis](https://github.com/nsikan-udoma/NYSE-Data-Project/blob/main/Project%20Cover%20Image.png)
 
 # Analyzing the NYSE Data for the “Soft Drinks” GCIS Sub Industry to Understand Financial Performance from 2013 to 2015
 
