@@ -6,3 +6,5 @@ The project tasks were to:
 - Intepret the measures of central tendency and spread (mean, median, standard dev, range)
 - Use a combination of Excel functions ( IF statements, INDEX, MATCH, VLOOKUP etc) to analyze and forecast financial business metrics.
 - Create Excel visualizations, dynamic dashboards, and financial forecast models.
+
+Here is the report for your review.
