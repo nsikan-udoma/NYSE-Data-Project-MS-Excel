@@ -10,4 +10,4 @@ The project tasks were to:
 - Create Excel visualizations, dynamic dashboards, and financial forecast models.
 
 Here is the report for your review.
-[NYSE Data Project](
+[NYSE Data Project](https://github.com/nsikan-udoma/NYSE-Data-Project/blob/main/nyse-data-project-submission%20-%20Nsikan%20Udoma.pptx)
