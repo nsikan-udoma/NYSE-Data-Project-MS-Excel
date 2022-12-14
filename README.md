@@ -10,7 +10,7 @@ The project tasks were to:
 - Create Excel visualizations, dynamic dashboards, and financial forecast models.
 
 Here is the Excel File.
-[NYSE Data Project](../main/projectdata-nyse%20(main).xlsx)
+[Excel Financial Forecast Model & Dashboard](../main/projectdata-nyse%20(main).xlsx)
 
 And here is the report for your review.
-[NYSE Data Project](../main/nyse-data-project-submission%20-%20Nsikan%20Udoma.pptx)
+[Powerpoint Presentation](../main/nyse-data-project-submission%20-%20Nsikan%20Udoma.pptx)
