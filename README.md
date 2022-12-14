@@ -1,3 +1,5 @@
+![NYSE Data Analysis](https://github.com/nsikan-udoma/deforestation-project/blob/main/Deforestation%20Project.png)
+
 # Analyzing the NYSE Data for the “Soft Drinks” GCIS Sub Industry to Understand Financial Performance from 2013 to 2015
 
 Analyzing real-life data from the New York Stock Exchange. Dataset used in this project is a subset of a large dataset provided by Kaggle. This dataset contains historical fincancial data from S&P 500 companies.
