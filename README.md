@@ -9,5 +9,8 @@ The project tasks were to:
 - Use a combination of Excel functions ( IF statements, INDEX, MATCH, VLOOKUP etc) to analyze and forecast financial business metrics.
 - Create Excel visualizations, dynamic dashboards, and financial forecast models.
 
-Here is the report for your review.
+Here is the Excel File.
+[NYSE Data Project](../main/nyse-data-project-submission%20-%20Nsikan%20Udoma.pptx)
+
+And here is the report for your review.
 [NYSE Data Project](../main/nyse-data-project-submission%20-%20Nsikan%20Udoma.pptx)
