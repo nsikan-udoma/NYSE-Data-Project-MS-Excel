@@ -9,7 +9,7 @@ The project tasks were to:
 - Use a combination of Excel functions ( IF statements, INDEX, MATCH, VLOOKUP etc) to analyze and forecast financial business metrics.
 - Create Excel visualizations, dynamic dashboards, and financial forecast models.
 
-Here is the Excel File.
+Here is the Excel File. Please download and view the dynamic dashboards locally on Microsoft Excel.
 [Excel Financial Forecast Model & Dashboard](../main/projectdata-nyse%20(main).xlsx)
 
 And here is the report for your review.
