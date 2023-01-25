@@ -32,7 +32,8 @@ As a seasoned Data Analyst, the main goal of the project was to showcase my abil
 Presentation of Insights:
 At the end of the analysis, a separate powerpoint presentation was created to showcase findings to relevant stakeholders. 
 
-Below is the link to the Excel File. Please download and view the dynamic dashboards locally on Microsoft Excel.
+Below is the link to the Excel File. Please download and view the dynamic dashboards locally on Microsoft Excel. 
+
 [Excel Financial Forecast Model & Dashboard](../main/projectdata-nyse%20(main).xlsx)
 
 And here is the report for your review.
