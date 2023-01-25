@@ -23,14 +23,14 @@ The cleaned dataset contains the following information:
 - GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of the "Airlines" industry.)
 
 Skills to be Demonstrated:
-The main goal of the project is to showcase my ability to:
+As a seasoned Data Analyst, the main goal of the project was to showcase my ability to:
 - Interpret the measures of central tendency and spread (mean, median, standard deviation, range).
 - Use a combination of Excel functions (e.g., IF statements, INDEX, and MATCH, calculating descriptive statistics with the IF statement, dropdowns, data validation, VLOOKUP).
-- Develop a dashboard for a Profit and Loss Statement (Income Statement), that calculates the Gross Profit, Operating Profit, or EBIT for a company selected from a drop-down list of all companies. The P&L statement should include the Gross Profit, Operating Profit, or EBIT values for all the years there is historical data available for that company in the dataset.
-- Create a dynamic financial model for one (1) company at a time, that forecasts out the Gross Profit, Operating Profit, or EBIT for two more years using three scenarios (Best case, Weak case, and Base case). Forecasting assumptions for revenue growth, gross margin, and operating margin should change for each scenario. The forecasting model should be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen company sticker symbol.
+- Develop a dashboard for a Profit and Loss Statement (Income Statement), that calculates the Gross Profit, Operating Profit, or EBIT for a company selected from a drop-down list of all companies. The P&L statement was designed to include the Gross Profit, Operating Profit, or EBIT values for all the years there is historical data available for that company in the dataset.
+- Create a dynamic financial model for one (1) company at a time, that forecasts out the Gross Profit, Operating Profit, or EBIT for two more years using three scenarios (Best case, Weak case, and Base case). Forecasting assumptions for revenue growth, gross margin, and operating margin was designed to change for each scenario. Also the forecasting model was designed to be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen company sticker symbol.
 
 Presentation of Insights:
-At the end of the analysis, a separate powerpoint presentation was created to showcase findings from the data analysis performed. 
+At the end of the analysis, a separate powerpoint presentation was created to showcase findings to relevant stakeholders. 
 
 Below is the link to the Excel File. Please download and view the dynamic dashboards locally on Microsoft Excel.
 [Excel Financial Forecast Model & Dashboard](../main/projectdata-nyse%20(main).xlsx)
