@@ -8,7 +8,7 @@ Background:
 Two (2) datasets Fundamentals.csv and Securities.csv files were downloaded from Kaggle. The Fundamentals file provides the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The Securities file provided the industry or sector information the companies are categorized under on the S&P 500 index.
 Both datasets were cleaned and combined to one dataset for the purpose of this project.
 
-Tasks to be performed included: calculating summary statistics, drawing inference from the statistics, measuring business metrics, and using financial models to forecast future growth projects for the 448 S&P 500 companies listed in the NYSE.
+Tasks to be performed included: calculating summary statistics, drawing inference from the statistics, measuring business metrics, and using financial models to forecast future growth projects for the 448 companies listed in the NYSE.
 
 The cleaned dataset contains the following information:
 - Ticker symbol: Stock symbol
