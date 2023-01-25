@@ -5,7 +5,7 @@
 Analyzing real-life data from the New York Stock Exchange (NYSE). A subset of a large dataset provided by Kaggle was used in this analysis. The dataset contained historical financial data from S&P 500 companies listed on the NYSE between 2013 and 2015, and sometimes 2016 if available.
 
 Background:
-Two (2) datasets Fundamentals.csv and Securities.csv files were downloaded from Kaggle. The Fundamentals file provides the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The Securities file provided the industry or sector information the companies are categorized under on the S&P 500 index.
+Two (2) datasets Fundamentals.csv and Securities.csv files were downloaded from Kaggle. The Fundamentals file provides the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The Securities file provided the industry or sector information for the companies under their respective categories in the S&P 500 index.
 Both datasets were cleaned and combined to one dataset for the purpose of this project.
 
 Tasks to be performed included: calculating summary statistics, drawing inference from the statistics, measuring business metrics, and using financial models to forecast future growth projects for the 448 companies listed in the NYSE.
