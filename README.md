@@ -29,6 +29,14 @@ As a seasoned Data Analyst, I wanted to showcase my ability to:
 - Develop a dashboard for a Profit and Loss Statement (Income Statement), that calculates the Gross Profit, Operating Profit, or EBIT for a company selected from a drop-down list of all companies. The P&L statement was designed to include the Gross Profit, Operating Profit, or EBIT values for all the years there is historical data available for that company in the dataset.
 - Create a dynamic financial model for one (1) company at a time, that forecasts out the Gross Profit, Operating Profit, or EBIT for two more years using three scenarios (Best case, Weak case, and Base case). Forecasting assumptions for revenue growth, gross margin, and operating margin was designed to change for each scenario. Also the forecasting model was designed to be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen company sticker symbol.
 
+
+## Accessing the Excel Dasboard
+
+Below is the link to the Excel File. Please download and view the dynamic dashboards locally on your computer using Microsoft Excel (Note: Excel dashboards do not open properly in google sheets). 
+
+[Excel Financial Forecast Model & Dashboard](../main/projectdata-nyse%20(main).xlsx)
+
+
 ## Analyzing the Data using Research Questions
 Data cleaning using Excel functions (NULL functions, IF statements, INDEX, MATCH, VLOOKUPs) was necessary to fix data quality and tidiness issues. I conducted exploratory data analysis to understand trends, patterns and correlations between variables in the dataset. And then I conducted an explanatory data anlysis using research questions derived from EDA of the dataset. These research questions include:
 
@@ -80,9 +88,9 @@ As an extension to this project, I plan on gathering data on the other financial
 
 ... just to name a few.
 
-## Accessing the Excel Dasboard
+## How to Access the Excel Dasboard
 
-Below is the link to the Excel File. Please download and view the dynamic dashboards locally on your computer using Microsoft Excel (Note: Excel dashboards do not open properly in google sheets). 
+Once again you can download the Excel Dashbaord using the link below. Please download and view the dynamic dashboards locally on your computer using Microsoft Excel (Note: Excel dashboards do not open properly in google sheets). 
 
 [Excel Financial Forecast Model & Dashboard](../main/projectdata-nyse%20(main).xlsx)
 
