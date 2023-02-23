@@ -35,18 +35,23 @@ Data cleaning using Excel functions (NULL functions, IF statements, INDEX, MATCH
 ### 1. How did the NYSE soft drinks sub industry perform in terms of average total revenue earned between 2013 & 2015?
 ![Avg Total Revenue btw 2013 and 2015](https://user-images.githubusercontent.com/24312721/220990100-c1abfb46-c5ad-4aa2-86c2-63dac173ec18.png)
 
-Presented above is a bar chart of the average total revenue earned between 2013 and 2015 by companies in the NYSE “Soft Drinks” GCIS sub industry. 
 On average, PepsiCo (PEP) earned the highest revenue of $65.38 billion between 2013 and 2015 , followed by Coca-Cola (KO) in 2nd position with $45.71 billion. Dr Pepper (DPS) ranks third with $6.13 billion average revenue between 2013 & 2015, while Monster Beverages (MNST) comes in lastly with $2.48 billion.  
 The mean of the average revenue earned by all 4 companies between 2013 and 2015 was $29.93 billion with a standard deviation of $30.69 billion. This is because the gap or range between PEP (the highest earner) and MNST (the lowest earner) was $62.9 billion. The chart indicates that PEP earned approximately 26.4 times more than MNST; and when compared to the others, PEP earned approximately 10.7 times more than DPS, and 1.4 times more than KO.
+
 
 ### 2. How did the NYSE soft drinks sub industry perform in terms of average operating profit generated between 2013 & 2015?
 ![Avg Total Revenue btw 2013 and 2015](https://user-images.githubusercontent.com/24312721/220990922-ef94c4c1-2c1a-4285-9658-6f97345671fb.png)
 
-Presented here is a bar chart of the average operating profit before taxes and interest between 2013 and 2015 by companies in the NYSE “Soft Drinks” GCIS sub industry. 
 On average between 2013 and 2015, PepsiCo (PEP) generated the highest operating profit of $9.67 billion, followed by Coca-Cola (KO) with $9.55 billion, then Monster Beverages (MNST) with $1.38 billion, and finally Dr Pepper (DPS) with $1.17 billion. 
 The mean of the average operating profit by all 4 companies between 2013 and 2015 was $5.44 billion with a standard deviation of $4.81 billion. This is because the gap or range between PEP (the highest) and DPS (the lowest) was $8.49 billion. The chart indicates that PEP made approx. 8 times more operating profit than DPS, 7 times more than MNST, and almost the same amount with KO. This suggests that although PEP earned significantly more revenues between 2013 and 2015 (as seen from the previous slide), there may be a lot of contributing factors such as costs and expenditures taking away from their profits.
-![image](https://user-images.githubusercontent.com/24312721/220991017-0d8afbab-3268-4d83-9581-1d909bdd97f4.png)
 
+
+### 3. How did the NYSE soft drinks sub industry perform in terms of average cost of revenue between 2013 & 2015?
+![Average Cost of Revenue between 2013   2015 for Soft Drinks Companies in the NYSE](https://user-images.githubusercontent.com/24312721/220991867-a6c77794-3c57-4e1f-8c64-bdd80f88fee2.png)
+
+On average between 2013 and 2015, PepsiCo (PEP) had the highest cost of revenue of approx. $30.40 billion, followed by Coca-Cola (KO) with $17.93 billion, then Dr Pepper (DPS) with $2.52 billion, and finally Monster Beverages (MNST) with $1.10 billion. 
+The mean of the average cost of revenue by all 4 companies between 2013 and 2015 was $12.99 billion with a standard deviation of $13.89 billion. This is because the gap or range between PEP (the highest) and MNST (the lowest) was $29.31 billion. The chart indicates that PEP spent approx. 28 times more on cost of revenue than MNST, 12 times more than DPS, and almost 2 times more than KO. 
+![image](https://user-images.githubusercontent.com/24312721/220991782-6c98720e-6297-4bab-99e0-9e4f34938aa5.png)
 
 
 
