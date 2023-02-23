@@ -23,11 +23,24 @@ The cleaned dataset contains the following information:
 - GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of the "Airlines" industry.)
 
 Skills to be Demonstrated:
-As a seasoned Data Analyst, the main goal of the project was to showcase my ability to:
+As a seasoned Data Analyst, I wanted to showcase my ability to:
 - Interpret the measures of central tendency and spread (mean, median, standard deviation, range).
 - Use a combination of Excel functions (e.g., IF statements, INDEX, and MATCH, calculating descriptive statistics with the IF statement, dropdowns, data validation, VLOOKUP).
 - Develop a dashboard for a Profit and Loss Statement (Income Statement), that calculates the Gross Profit, Operating Profit, or EBIT for a company selected from a drop-down list of all companies. The P&L statement was designed to include the Gross Profit, Operating Profit, or EBIT values for all the years there is historical data available for that company in the dataset.
 - Create a dynamic financial model for one (1) company at a time, that forecasts out the Gross Profit, Operating Profit, or EBIT for two more years using three scenarios (Best case, Weak case, and Base case). Forecasting assumptions for revenue growth, gross margin, and operating margin was designed to change for each scenario. Also the forecasting model was designed to be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen company sticker symbol.
+
+## Analyzing the Data using Research Questions
+Data cleaning using Excel functions (NULL functions, IF statements, INDEX, MATCH, VLOOKUPs) was necessary to fix data quality and tidiness issues. I conducted exploratory data analysis to understand trends, patterns and correlations between variables in the dataset. And then I conducted an explanatory data anlysis using research questions derived from EDA of the dataset. These research questions include:
+
+### How did the NYSE soft drinks sub industry perform in terms of average total revenue earned between 2013 & 2015?
+![Avg Total Revenue btw 2013 and 2015](https://user-images.githubusercontent.com/24312721/220990100-c1abfb46-c5ad-4aa2-86c2-63dac173ec18.png)
+
+Presented here is a bar chart of the average total revenue earned between 2013 and 2015 by companies in the NYSE “Soft Drinks” GCIS sub industry. 
+On average, PepsiCo (PEP) earned the highest revenue of $65.38 billion between 2013 and 2015 , followed by Coca-Cola (KO) in 2nd position with $45.71 billion. Dr Pepper (DPS) ranks third with $6.13 billion average revenue between 2013 & 2015, while Monster Beverages (MNST) comes in lastly with $2.48 billion.  
+The mean of the average revenue earned by all 4 companies between 2013 and 2015 was $29.93 billion with a standard deviation of $30.69 billion. This is because the gap or range between PEP (the highest earner) and MNST (the lowest earner) was $62.9 billion. The chart indicates that PEP earned approximately 26.4 times more than MNST; and when compared to the others, PEP earned approximately 10.7 times more than DPS, and 1.4 times more than KO.
+![image](https://user-images.githubusercontent.com/24312721/220990177-8276cf6d-1606-44fb-97c0-16499b7e402c.png)
+
+
 
 ## Main Insights
 
