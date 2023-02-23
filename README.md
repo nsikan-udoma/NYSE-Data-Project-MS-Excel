@@ -48,8 +48,7 @@ The mean of the average operating profit by all 4 companies between 2013 and 201
 ![Average Cost of Revenue between 2013   2015 for Soft Drinks Companies in the NYSE](https://user-images.githubusercontent.com/24312721/220991867-a6c77794-3c57-4e1f-8c64-bdd80f88fee2.png)
 
 On average between 2013 and 2015, PepsiCo (PEP) had the highest cost of revenue of approx. $30.40 billion, followed by Coca-Cola (KO) with $17.93 billion, then Dr Pepper (DPS) with $2.52 billion, and finally Monster Beverages (MNST) with $1.10 billion. 
-The mean of the average cost of revenue by all 4 companies between 2013 and 2015 was $12.99 billion with a standard deviation of $13.89 billion. This is because the gap or range between PEP (the highest) and MNST (the lowest) was $29.31 billion. The chart indicates that PEP spent approx. 28 times more on cost of revenue than MNST, 12 times more than DPS, and almost 2 times more than KO. 
-![image](https://user-images.githubusercontent.com/24312721/220991782-6c98720e-6297-4bab-99e0-9e4f34938aa5.png)
+The mean of the average cost of revenue by all 4 companies between 2013 and 2015 was $12.99 billion with a standard deviation of $13.89 billion. This is because the gap or range between PEP (the highest) and MNST (the lowest) was $29.31 billion. The chart indicates that PEP spent approx. 28 times more on cost of revenue than MNST, 12 times more than DPS, and almost 2 times more than KO.
 
 ## Summary of Main Insights
 
