@@ -79,7 +79,7 @@ Between 2013 and 2015, PepsiCo earned the highest average revenue of $65.38 bill
 
 The NYSE-Data dataset only contained data about the total revenue generated, the amounts spent on cost to generate the revenue, and the operating profit before deduction of income taxes and interest payments. However, to better understand how these soft-drinks companies performed between 2013 and 2015, data enrichment is necessary to gather data on other financial metrics such as the profit margin, operating margin, debt-to-asset ratio, and net profit margin, to better understand performance and measure profitability for these soft-drinks companies. 
 
-As an extension to this project, I plan on gathering data on the other financial metrics listed above from the financial statements of Pepsi, Coca-Cola, Dr Pepper and Monster Beverages. The assumption is that these data points might be readily available through the financial statements of the years 2013 - 2015 from their respective websites, or I may have to use websites that provide publicly available datasets such as:
+As an extension to this project, I plan on gathering data on the other financial metrics listed above from the financial statements of Pepsi, Coca-Cola, Dr Pepper and Monster Beverages. The assumption is that these data points are readily available through their respective financial statements for the years 2013 - 2015 from their respective websites. If not, I will have to use websites that provide publicly available datasets such as:
 - The U.S Government's Open Data Portal: https://www.data.gov/
 - Kaggle Datasets: https://www.kaggle.com/datasets
 - Data World: https://data.world/
