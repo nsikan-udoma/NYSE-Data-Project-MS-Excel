@@ -88,9 +88,9 @@ As an extension to this project, I plan on gathering data on the other financial
 
 ... just to name a few.
 
-## How to Access the Excel Dasboard
+## How to Access the Excel Dashboard
 
-Once again you can download the Excel Dashbaord using the link below. Please download and view the dynamic dashboards locally on your computer using Microsoft Excel (Note: Excel dashboards do not open properly in google sheets). 
+Once again you can download the Excel Dashboard using the link below. Please download and view the dynamic dashboards locally on your computer using Microsoft Excel (Note: Excel dashboards do not open properly in google sheets). 
 
 [Excel Financial Forecast Model & Dashboard](../main/projectdata-nyse%20(main).xlsx)
 
